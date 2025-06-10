@@ -137,3 +137,6 @@ button:hover {
         padding: 10px;
     }
 }
+html {
+  scroll-padding-top: 80px; /* match your navbar height */
+}
